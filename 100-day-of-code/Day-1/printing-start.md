@@ -1,3 +1,3 @@
-  ### Day of code 
+  ### Day-1
   
   [https://repl.it/@AkashKushwah/day-1-printing-start#main.py](https://repl.it/@AkashKushwah/day-1-printing-start#main.py)
