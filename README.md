@@ -9,70 +9,70 @@ Throughout this comprehensive course, we cover a massive amount of tools and tec
 
 * Python Scripting and Automation
 
-Python Game Development
+* Python Game Development
 
-Web Scraping
+* Web Scraping
 
-Beautiful Soup
+* Beautiful Soup
 
-Selenium Web Driver
+* Selenium Web Driver
 
-Request
+* Request
 
-WTForms
+* WTForms
 
-Data Science
+* Data Science
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
-Plotly
+* Plotly
 
-Scikit learn
+* Scikit learn
 
-Seaborn
+* Seaborn
 
-Turtle
+* Turtle
 
-Python GUI Desktop App Development
+* Python GUI Desktop App Development
 
-Tkinter
+* Tkinter
 
-Front-End Web Development
+* Front-End Web Development
 
-HTML 5
+* HTML 5
 
-CSS 3
+* CSS 3
 
-Bootstrap 4
+* Bootstrap 4
 
-Bash Command Line
+* Bash Command Line
 
-Git, GitHub and Version Control
+* Git, GitHub and Version Control
 
-Backend Web Development
+* Backend Web Development
 
-Flask
+* Flask
 
-REST
+* REST
 
-APIs
+* APIs
 
-Databases
+* Databases
 
-SQL
+* SQL
 
-SQLite
+* SQLite
 
-PostgreSQL
+* PostgreSQL
 
-Authentication
+* Authentication
 
-Web Design
+* Web Design
 
-Deployment with GitHub Pages, Heroku and GUnicorn
+* Deployment with GitHub Pages, Heroku and GUnicorn
 
-and much much more!
+* and much much more!
