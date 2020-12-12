@@ -76,5 +76,5 @@ Throughout this comprehensive course, we cover a massive amount of tools and tec
 * Deployment with GitHub Pages, Heroku and GUnicorn
 
 * and much much more!
-[https://repl.it/@AkashKushwah/day-1-printing-start#main.py](https://repl.it/@AkashKushwah/day-1-printing-start#main.py)
+
 
